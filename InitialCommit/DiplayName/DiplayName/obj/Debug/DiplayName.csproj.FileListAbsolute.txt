@@ -1,0 +1,7 @@
+D:\Source\repose\DiplayName\DiplayName\bin\Debug\DiplayName.exe.config
+D:\Source\repose\DiplayName\DiplayName\bin\Debug\DiplayName.exe
+D:\Source\repose\DiplayName\DiplayName\bin\Debug\DiplayName.pdb
+D:\Source\repose\DiplayName\DiplayName\obj\Debug\DiplayName.csproj.AssemblyReference.cache
+D:\Source\repose\DiplayName\DiplayName\obj\Debug\DiplayName.csproj.CoreCompileInputs.cache
+D:\Source\repose\DiplayName\DiplayName\obj\Debug\DiplayName.exe
+D:\Source\repose\DiplayName\DiplayName\obj\Debug\DiplayName.pdb
